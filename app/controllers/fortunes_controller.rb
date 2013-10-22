@@ -1,0 +1,3 @@
+class FortunesController
+
+end
