@@ -1,3 +1,3 @@
-class FortunesController
+class FortunesController < ApplicationController
 
 end
